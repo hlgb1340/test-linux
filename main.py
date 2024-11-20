@@ -1,3 +1,5 @@
 name = "Kelvin"
 
-print(f"Hello, {name}")
+age = 25
+
+print(f"Hello, {name} - {age} years old!")
